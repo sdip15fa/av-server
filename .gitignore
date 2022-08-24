@@ -1,0 +1,10 @@
+/.idea/
+/.vscode/
+/.lh/
+/node_modules/
+.env
+/dist/
+*.log
+/app.yaml
+/.yarn/cache/
+/.yarn/install-state.gz
